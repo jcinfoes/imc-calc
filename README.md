@@ -25,7 +25,7 @@ conjunto com a função **setTimeout()**.
 
 Copyright (c) B7Web.
 
-## Projeto funcional para testar
+### Projeto funcional para testar
 
-- [imc.jcinfoes.com.br](http://imc.jcinfoes.com.br)
+- [http://imc.jcinfoes.com.br](http://imc.jcinfoes.com.br)
 
